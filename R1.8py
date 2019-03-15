@@ -1,0 +1,3 @@
+'''j=n+k'''
+def ref(s,k):
+    return(len(s)+k,s[k],s[len(s)+k])
